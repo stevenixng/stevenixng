@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/stevenixng/sunlamp-wifibutton/commit/aabcc337758cf1088b7f5d62b0b7e5419fd794fd\"><strong>a</strong>abcc337758cf1088b7f5d62b0b7e5419fd794fd</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"added\".",
+    "body": "My favorite commit message words are:\n\n1. added (used 21 times)\n2. to (used 18 times)\n3. adding (used 15 times)\n4. update (used 13 times)\n5. and (used 12 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/stevenixng/spyglass/commit/2701c7436f0a3084c0bc131299cdee7c891ac552\">2701c74</a>: fixing another json not serializable error with error handling messages\n- <a href=\"https://github.com/stevenixng/spyglass/commit/61e5b0f7ce2fc4d33dd65812c31b26fe92016462\">61e5b0f</a>: fixing issue with urllib3",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/stevenixng/stevenixng/commit/f228e886637efae1ad50e9ab94eb94a9372b9e2d\">f228e88</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/7df3278ef4a3e7c5ae4fa5d0c4606001a2142668\">7df3278</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/2701c7436f0a3084c0bc131299cdee7c891ac552\">2701c74</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/61e5b0f7ce2fc4d33dd65812c31b26fe92016462\">61e5b0f</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/bdd5b4895b84a445c98d29f80a6391a4acc75feb\">bdd5b48</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/0914f22b5f4969605fef1d82b14980c0a96f5376\">0914f22</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/stevenixng/dotfiles/commit/1e5707cb3135b4f33bddf4fc85f7d794b7384e5c\">1e5707c</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/e362c21b8d560324adfdc2b76487d27d20c8dd07\">e362c21</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/d9ed82351db5447c321155d03f3e01a740988bf2\">d9ed823</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/3feb367a2c48f7049a073d99cddb7839c60e4d74\">3feb367</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/9b1330c668a91ebd46b6173265874dca0abe440d\">9b1330c</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/d8eeafaba5b1547b7824e407c36bfaf3532a025c\">d8eeafa</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/stevenixng/spyglass/commit/f15d363a4c4fe3478bbd8f4bf50702beda23a62f\">f15d363</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/132e544e9aaf4832c272ec5874b3fbf5c617b0a1\">132e544</a>\n- <a href=\"https://github.com/stevenixng/spyglass/commit/1d8c79722386502bfc3c745e6468deddb8f2e090\">1d8c797</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
