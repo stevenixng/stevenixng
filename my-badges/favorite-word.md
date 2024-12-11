@@ -7,8 +7,8 @@ My favorite commit message words are:
 1. update (used 6 times)
 2. readme.md (used 6 times)
 3. info (used 2 times)
-4. my-badges.yml (used once)
-5. initial (used once)
+4. boxybsd (used once)
+5. validation (used once)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
